@@ -1,3 +1,3 @@
-# animation-basics
+# animation-svg
 
 Задание: работа с иконками в SVG-формате
